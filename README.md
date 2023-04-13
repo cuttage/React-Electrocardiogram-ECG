@@ -4,7 +4,7 @@
 
 > Stable in Google Chrome Version 112.0.5615.49 (Official Build) (x86_64)
 
-> Read the README in the node-converter folder
+> Read the README in the node-converter folder too.
 
 For our application, we were provided with a dataset in .7z format containing tens of millions of entries, which required preprocessing before it could be utilized in a simulated API call. The goal was to display this dataset in the form of an ECG Data Visualization chart using React (and LightingChart). Due to the large size of the dataset, we faced several challenges in handling it, such as socket hang issues during server-side rendering of the data. Additionally, we encountered problems with string length when converting the data to a string format, and we had to address issues related to file system (FS) limitations when handling data over 2GB in size.
 
