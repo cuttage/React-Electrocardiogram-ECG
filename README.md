@@ -42,6 +42,8 @@ This approach allows for efficient fetching of large amounts of data while keepi
 
 ![ECG](images/Screenshot-a.png)
 
+> Make sure you navigate to the 'next-app' folder to run these scripts.
+
 ### Dev
 
 `npm run dev`
