@@ -2,6 +2,8 @@
 
 > Node v16.14.2
 
+> In the 'src' directory of the 'next-app' application, delete the existing 'coordsData' folder and replace it with the newly generated 'coordsData' folder, provided that the instructions in this guide have been carefully followed.
+
 To execute a Node.js script, enter the command node `<nameOfTheFile>.js` in the console.
 
 The compressed .7z file has been extracted using a utility and the resulting file is file.txt. The original .7z file is not provided but can be found here: [Repo](https://github.com/idoven/frontend-challenge/tree/main/data)
