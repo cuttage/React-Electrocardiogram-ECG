@@ -44,6 +44,10 @@ This approach allows for efficient fetching of large amounts of data while keepi
 
 > Make sure you navigate to the 'next-app' folder to run these scripts.
 
+### Install
+
+`npm i`
+
 ### Dev
 
 `npm run dev`
