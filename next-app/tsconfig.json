@@ -24,7 +24,8 @@
     "**/*.tsx",
     "__tests__/Layout.test.jsx",
     "__tests__/Layout.test.jsx",
-    "src/components/Layout.jsx"
+    "src/components/Layout.jsx",
+    "node_modules/@types/aria-query"
   ],
   "exclude": ["node_modules"]
 }
